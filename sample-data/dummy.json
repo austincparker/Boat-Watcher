@@ -1,0 +1,32 @@
+{
+    "boats": {
+        "bt1": {
+            "name": "Johnson",
+            "make": "Yamaha",
+            "model": "King of Waves S1",
+            "build-date": "03/04/2005",
+            "fancy": true
+        },
+        "bt2": {
+            "name": "Lady",
+            "make": "Chevrolet",
+            "model": "A155",
+            "build-date": "01/12/2010",
+            "fancy": true
+        },
+        "bt3": {
+            "name": "MyBoat",
+            "make": "Nike",
+            "model": "Runner",
+            "build-date": "12/05/2002",
+            "fancy": false
+        },
+        "bt4": {
+            "name": "Loathsome",
+            "make": "Fiat",
+            "model": "Microdump",
+            "build-date": "04/01/2015",
+            "fancy": false
+        }
+    }
+}
